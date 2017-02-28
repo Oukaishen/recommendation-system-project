@@ -11,3 +11,6 @@ The group proposal is revised with the help of Weijun!
 
 2016.12.30
 Finished the project. Keep revising and beautifuling the codes. Update the MatrixSpliter.
+
+2017.2.28
+Updated WHSpliter.java and Mjob.java.
